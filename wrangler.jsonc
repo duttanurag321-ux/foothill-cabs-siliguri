@@ -4,6 +4,6 @@
   "compatibility_date": "2026-11-25",
   "build": { "command": "npm run build" },
   "d1_databases": [
-    { "binding": "DB", "database_name": "foothill-bookings", "database_id": "REPLACE_WITH_YOUR_D1_DATABASE_ID", "migrations_dir": "drizzle" }
+    { "binding": "DB", "database_name": "foothill-bookings", "database_id": "59ca7020-f0f8-488a-9322-57b6e638481f", "migrations_dir": "drizzle" }
   ]
 }
