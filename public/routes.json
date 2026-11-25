@@ -1,0 +1,59 @@
+[
+  {
+    "id": "bagdogra",
+    "origin": "Bagdogra Airport",
+    "destination": "Siliguri",
+    "type": "Airport",
+    "fare": 950,
+    "mins": 60,
+    "seats": 4,
+    "image": "/images/bagdogra.jpg",
+    "vehicle": "Swift Dzire",
+    "terms": "One-way private airport transfer.",
+    "active": true,
+    "approved": false
+  },
+  {
+    "id": "darjeeling",
+    "origin": "Siliguri",
+    "destination": "Darjeeling",
+    "type": "Hills",
+    "fare": 3200,
+    "mins": 210,
+    "seats": 4,
+    "image": "/images/darjeeling.jpg",
+    "vehicle": "Partner cab",
+    "terms": "One-way hill trip with a partner vehicle.",
+    "active": true,
+    "approved": false
+  },
+  {
+    "id": "gangtok",
+    "origin": "Siliguri",
+    "destination": "Gangtok",
+    "type": "Hills",
+    "fare": 4200,
+    "mins": 270,
+    "seats": 4,
+    "image": "/images/gangtok.jpg",
+    "vehicle": "Partner cab",
+    "terms": "One-way hill trip with a partner vehicle.",
+    "active": true,
+    "approved": false
+  },
+  {
+    "id": "njp",
+    "origin": "New Jalpaiguri Station",
+    "destination": "Siliguri",
+    "type": "Local",
+    "fare": 600,
+    "mins": 45,
+    "seats": 4,
+    "image": "/images/bagdogra.jpg",
+    "vehicle": "Swift Dzire",
+    "terms": "One-way station pickup.",
+    "active": true,
+    "approved": false
+  }
+]
+

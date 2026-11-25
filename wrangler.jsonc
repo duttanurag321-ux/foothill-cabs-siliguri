@@ -1,0 +1,9 @@
+{
+  "name": "foothill-cabs-siliguri",
+  "main": "dist/server/index.js",
+  "compatibility_date": "2026-11-25",
+  "build": { "command": "npm run build" },
+  "d1_databases": [
+    { "binding": "DB", "database_name": "foothill-bookings", "database_id": "REPLACE_WITH_YOUR_D1_DATABASE_ID", "migrations_dir": "drizzle" }
+  ]
+}
